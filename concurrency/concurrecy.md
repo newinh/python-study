@@ -16,7 +16,7 @@
 저수준 비동기 I/O : asyncore, asychat 모듈
 고수준 : 트위스티드 프레임워크(외부), 3.4부터는 표준 라이브러리에 추가될 예정
 
-####GIL(Global Interpreter Lock)
+#### GIL(Global Interpreter Lock)
 
 
 - CPU 위주의 프로그램 - 다중프로세스 활용 권장
